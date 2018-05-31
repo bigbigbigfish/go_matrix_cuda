@@ -4,7 +4,7 @@
 package mt
 
 import (
-	"github.com/barnex/cuda5/cu"
+	"github.com/bigbigbigfish/gocuda/cu"
 	"math"
 	"unsafe"
 )
